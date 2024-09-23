@@ -4,8 +4,6 @@ SearchType Field
 This renders an ``<input type="search">`` field, which is a text box with
 special functionality supported by some browsers.
 
-Read about the input search field at `DiveIntoHTML5.info`_
-
 +---------------------------+----------------------------------------------------------------------+
 | Rendered as               | ``input search`` field                                               |
 +---------------------------+----------------------------------------------------------------------+
